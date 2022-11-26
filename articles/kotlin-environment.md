@@ -3,7 +3,7 @@ title: "WindowsでKotlinの開発環境構築 at IntelliJ"
 emoji: "👹"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [kotlin]
-published: false
+published: ture
 ---
 
 # はじめに
