@@ -14,7 +14,7 @@ published: true
 配信の様子は以下のURLからチェックをお願いします。
 | プラットフォーム | 担当者 |
 | ---- | ---- |
-| WebAPI(AWS)+Webアプリ | |
+| WebAPI(AWS)+Webアプリ | https://zenn.dev/toraiti |
 | iPhoneアプリ |https://zenn.dev/tns_00 |
 | Androidアプリ | https://zenn.dev/dsuzuki | 
 
